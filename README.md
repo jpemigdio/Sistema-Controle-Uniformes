@@ -118,22 +118,6 @@ Durante o desenvolvimento foram aplicados conceitos de:
 
 ### Tela Inicial
 
-![Tela Inicial](images/Captura de tela 2026-06-22 140453.png)
-
-### Cadastro de Uniforme
-
-![Cadastro de Uniforme](images/Captura de tela 2026-06-22 140722.png)
-
-### Consulta por ID
-
-![Consulta por ID](images/Captura de tela 2026-06-22 141055.png)
-
-### Consulta de Todos os Uniformes
-
-![Consulta de Todos](images/consulta-todos.png)## 📸 Telas do Sistema
-
-### Tela Inicial
-
 ![Tela Inicial](images/tela-inicial.png)
 
 ### Cadastro de Uniforme
@@ -147,8 +131,6 @@ Durante o desenvolvimento foram aplicados conceitos de:
 ### Consulta de Todos os Uniformes
 
 ![Consulta de Todos](images/consulta-todos.png)
-
-## 👨‍💻 Autor
 
 **João Paulo Emigdio de Moraes**
 Projeto desenvolvido para fins acadêmicos na disciplina de Implementação Orientada a Objetos.
