@@ -162,6 +162,8 @@ Durante o desenvolvimento foram aplicados conceitos de:
 
 
 
-**João Paulo Emigdio de Moraes**
-Projeto desenvolvido para fins acadêmicos na disciplina de Implementação Orientada a Objetos.
+## 👨‍💻 Autor
 
+**João Paulo Emigdio de Moraes**
+
+Projeto desenvolvido para fins acadêmicos na disciplina de Implementação Orientada a Objetos.
