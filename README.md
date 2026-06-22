@@ -99,6 +99,13 @@ Principais entidades:
 
 ---
 
+## 🗄️ Banco de Dados
+
+O script de criação do banco de dados está disponível em:
+
+[`database/script.sql`](database/script.sql)
+
+
 ## 🎯 Conceitos Aplicados
 
 Durante o desenvolvimento foram aplicados conceitos de:
