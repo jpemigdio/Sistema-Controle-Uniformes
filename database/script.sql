@@ -41,5 +41,7 @@ create table if not exists uniforme_solicitacao(
     on delete cascade
     on update cascade
 )engine = InnoDB
+
+Adiciona script banco de dados
 default charset = utf8mb4
 collate = utf8mb4_unicode_ci;
